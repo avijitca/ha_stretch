@@ -1,4 +1,4 @@
-# CodeIgniter RESTful API Project
+# Take-Home Assessment Stretch Goal RESTful API Project
 
 This project is a RESTful API developed using the CodeIgniter framework. It provides CRUD (Create, Read, Update, Delete) operations that can be accessed via HTTP requests using tools like Postman. The API is designed to be run locally for development and testing purposes.
 
